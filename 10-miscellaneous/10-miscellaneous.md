@@ -18,7 +18,7 @@
 
 ### Splunk
 ##### ETC: 1.5 days (Includes the course)
-1. https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
+1. https://gitlab.com/c3561/the_hitchhikers_guide_to_the_cts/-/blob/master/13.Splunk/01.Introduction.md
 2. Be familiar with [outcold collectors](https://www.outcoldsolutions.com/).
 
 ### Tensorboard
